@@ -1,6 +1,8 @@
 # readyNN
 Links to good Neural Networks that are ready to use, with pretrained weights, descriptions and license info. 
 
+It is mostly set for people looking for models that will need to be ported to Javascript, to be used in the web or elsewhere.
+
 **Object Detection**
 * [Yolov7](https://github.com/WongKinYiu/yolov7), GPLv3, with smaller NN useful for phones, and also larger ones.  
 
