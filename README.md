@@ -5,6 +5,7 @@ It is mostly set for people looking for models that will need to be ported to Ja
 
 **Object Detection**
 * [Yolov7](https://github.com/WongKinYiu/yolov7), GPLv3, with smaller NN useful for phones, and also larger ones.  
+* [YoloX](https://github.com/Megvii-BaseDetection/YOLOX), Apache2.0. Great project.  
 
 **Many Models**
 * Pytorch models + weights, license to check per model. [See here for Vision](https://pytorch.org/vision/stable/index.html)
